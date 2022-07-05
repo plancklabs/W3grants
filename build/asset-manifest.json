@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2efccf2a.css",
+    "main.js": "/static/js/main.11aa50f8.js",
+    "static/media/homeimg.png": "/static/media/homeimg.c70bf259f64a9c5d6d05.png",
+    "static/media/footbg.png": "/static/media/footbg.e98199b1333082ddb7e8.png",
+    "static/media/pibackg.png": "/static/media/pibackg.2e2dcbbd8faed1db539a.png",
+    "static/media/homeimg2.png": "/static/media/homeimg2.b556e52bb4e287648a87.png",
+    "static/media/three.png": "/static/media/three.c3336443945f7ccccc63.png",
+    "static/media/two.png": "/static/media/two.37664e3622e9aa3b53b3.png",
+    "static/media/cardi1.png": "/static/media/cardi1.4508756c722134a01f9b.png",
+    "static/media/footlogo.png": "/static/media/footlogo.e46ce7dc9db6f28df606.png",
+    "static/media/one.png": "/static/media/one.4259b61d8b8a57f0dc1d.png",
+    "static/media/cardi2.png": "/static/media/cardi2.6914561ec27292874522.png",
+    "static/media/logo3.png": "/static/media/logo3.080491c3f10d401596ad.png",
+    "static/media/cardi3.png": "/static/media/cardi3.b4c5e7e375e563e2abc5.png",
+    "static/media/homeimg3.png": "/static/media/homeimg3.c05f6065a280006ff7f2.png",
+    "static/media/logo2.png": "/static/media/logo2.23ec6e428e2f5a9a6a36.png",
+    "static/media/logo4.png": "/static/media/logo4.129d1455554934ea0a62.png",
+    "static/media/ap-note-arrow.png": "/static/media/ap-note-arrow.3c4de2eb7d2f2e2ceb96.png",
+    "static/media/logo1.png": "/static/media/logo1.7e295d62c87de75cbf52.png",
+    "static/media/navLogo.png": "/static/media/navLogo.38a8acfb9731ee62b2a7.png",
+    "static/media/ap-note.png": "/static/media/ap-note.09d46f54828bebe63038.png",
+    "static/media/three-h.png": "/static/media/three-h.62feb431278102bcbe2d.png",
+    "static/media/one-h.png": "/static/media/one-h.451b14c01062d3f97f40.png",
+    "index.html": "/index.html",
+    "main.2efccf2a.css.map": "/static/css/main.2efccf2a.css.map",
+    "main.11aa50f8.js.map": "/static/js/main.11aa50f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2efccf2a.css",
+    "static/js/main.11aa50f8.js"
+  ]
+}
